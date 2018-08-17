@@ -1,0 +1,11 @@
+<!-- break -->
+<br>
+<br>
+<br>
+<!-- break -->
+
+Deliverables
+--------------------
+
+The project will characterize the genetic architecture of local adaptation to highland environments in maize, identifying loci responsible for phenotypic differences between highland and lowland maize in Mexico and South America and estimates of their effect size and testing them in commercially relevant backgrounds. The evolutionary mechanisms underlying local adaptation – convergent evolution, introgression, and selection – will also be characterized. Finally, we will functionally evaluate a single large-effect locus (a chromosomal inversion) to identify its phenotypic effects and the underlying genes. The project will host phenotyping instructional workshops, a US-Mexico exchange program, and farmer field days in order to broaden the impact of our research and translate research results into educational and applied outcomes.
+

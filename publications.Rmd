@@ -1,0 +1,31 @@
+<!-- break -->
+<br>
+<br>
+<br>
+<!-- break -->
+
+Publications
+--------------------
+
+
+Click on the arrows to see a brief summary of what we did in the paper!
+
+## Preprints
+
+
+
+## Publications.
+
+### 2017
+
+<details>
+    <summary>
+**2** [Allele specific expression analysis identifies regulatory variation associated with stress-related genes in the Mexican highland maize landrace Palomero Toluqueño](https://peerj.com/articles/3737/).  
+Aguilar-Rangel MR, Chávez Montes RA, González-Segovia E, Ross-Ibarra J, Simpson JK, Sawers RJH.</summary>
+ <p style="margin-left: 30px">Using allele specific expression of an F1 cross between B73 and Palomero Toluqueño (a Mexican highland Landrace) we identified set of genes that showed differential allele expression and were considered to display an anticipated prior response to typical highland stresses such as cold and UV response </p></details>
+
+<details>
+    <summary>
+**1** [The interplay of demography and selection during maize domestication and diffusion](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1346-4).  
+Wang L, Beissinger TM, Lorant A, Ross-Ibarra C, Ross-Ibarra J, Hufford MB.</summary>
+ <p style="margin-left: 30px">We use 30 genomes of highland and lowland maize landraces from across the Americas to study the expansion of maize after domestication. We found declines in population size and serial founder effects as maize spread to the south after domestication. This lead to an increase in deleterious effects that is particularly marked in Andean maize. Introgression of highland teosinte mexicana in North American and Guatemalan highland maize reduced the prevalance of deleterious effects</p></details>

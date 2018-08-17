@@ -1,0 +1,25 @@
+name: "The Genetics of Highland Adaptation in Maize"
+navbar:
+  title: "HiLo Maize"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "People"
+      icon: fa-users
+      href: people.html
+    - text: "Publications"
+      icon: fa-file-text
+      href: publications.html
+    - text: "News"
+      icon: fa-newspaper-o
+      href: news.html
+    - text: "Deliverables"
+      icon: fa-handshake-o
+      href: deliverables.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: kate
+exclude: [".Rproj","README.md"]
+output_dir: "."
