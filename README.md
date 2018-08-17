@@ -1,1 +1,1 @@
-# Webpage of our lab.
+# Webpage of the project.
